@@ -1,0 +1,15 @@
+body{background-color: bisque}
+h1{ font-size: 30px; 
+    color:#00b7d4;
+    }
+h2{ font-size: 24px; 
+    color:#505488;
+    }
+h3{ font-size: 16px; 
+    color:#2f3f80;
+    }
+.big {font-size: 42px;
+    }  
+.uppercase{ text-transform: uppercase;}      
+
+.big.uppercase {color: #2f3f80}
